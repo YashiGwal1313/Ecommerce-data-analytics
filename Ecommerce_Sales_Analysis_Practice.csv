@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,City,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Mode
+1,2026-02-05,CUST024,Headphones,Electronics,Delhi,1,2500,0.1,2250.0,1386.27,863.73,UPI
+2,2026-02-25,CUST008,Water Bottle,Accessories,Pune,4,600,0.0,2400.0,1339.31,1060.69,UPI
+3,2026-05-31,CUST009,Backpack,Accessories,Lucknow,2,1400,0.15,2380.0,1450.66,929.34,UPI
+4,2026-02-25,CUST025,Keyboard,Electronics,Mumbai,4,1800,0.1,6480.0,4050.16,2429.84,UPI
+5,2026-03-30,CUST020,Headphones,Electronics,Mumbai,4,2500,0.0,10000.0,6469.24,3530.76,UPI
+6,2026-04-07,CUST003,Pen Set,Stationery,Pune,5,250,0.0,1250.0,1015.93,234.07,Debit Card
+7,2026-01-12,CUST022,Water Bottle,Accessories,Noida,3,600,0.05,1710.0,1265.8,444.2,Debit Card
+8,2026-04-27,CUST021,Headphones,Electronics,Lucknow,2,2500,0.0,5000.0,3263.17,1736.83,Debit Card
+9,2026-03-10,CUST023,Keyboard,Electronics,Jaipur,3,1800,0.1,4860.0,2947.92,1912.08,UPI
+10,2026-04-08,CUST009,Water Bottle,Accessories,Jaipur,2,600,0.05,1140.0,677.3,462.7,Credit Card
+11,2026-03-22,CUST013,Desk,Furniture,Mumbai,1,12000,0.05,11400.0,8799.51,2600.49,UPI
+12,2026-05-08,CUST013,Mouse,Electronics,Jaipur,5,900,0.1,4050.0,2460.01,1589.99,Cash
+13,2026-05-24,CUST018,Keyboard,Electronics,Mumbai,3,1800,0.05,5130.0,3163.1,1966.9,Cash
+14,2026-02-05,CUST017,Water Bottle,Accessories,Bangalore,4,600,0.1,2160.0,1315.91,844.09,UPI
+15,2026-06-24,CUST014,Laptop,Electronics,Pune,1,55000,0.05,52250.0,37589.2,14660.8,UPI
+16,2026-05-22,CUST028,Notebook,Stationery,Delhi,4,120,0.15,408.0,282.69,125.31,UPI
+17,2026-04-22,CUST006,Backpack,Accessories,Bangalore,3,1400,0.1,3780.0,2192.85,1587.15,UPI
+18,2026-01-28,CUST028,Office Chair,Furniture,Jaipur,5,7500,0.05,35625.0,24477.01,11147.99,Debit Card
+19,2026-02-11,CUST018,Backpack,Accessories,Lucknow,5,1400,0.05,6650.0,3931.92,2718.08,UPI
+20,2026-04-03,CUST029,Water Bottle,Accessories,Lucknow,3,600,0.15,1530.0,849.55,680.45,Debit Card
+21,2026-01-21,CUST003,Mouse,Electronics,Jaipur,1,900,0.05,855.0,672.94,182.06,Cash
+22,2026-05-02,CUST018,Headphones,Electronics,Noida,5,2500,0.05,11875.0,6942.91,4932.09,Debit Card
+23,2026-05-19,CUST025,Backpack,Accessories,Jaipur,5,1400,0.15,5950.0,4821.75,1128.25,Credit Card
+24,2026-05-13,CUST015,Office Chair,Furniture,Delhi,4,7500,0.1,27000.0,18043.75,8956.25,Credit Card
+25,2026-05-22,CUST008,Mouse,Electronics,Pune,1,900,0.1,810.0,450.1,359.9,Credit Card
+26,2026-01-09,CUST028,Laptop,Electronics,Mumbai,1,55000,0.0,55000.0,33649.79,21350.21,UPI
+27,2026-02-24,CUST018,Backpack,Accessories,Noida,2,1400,0.1,2520.0,1841.17,678.83,Cash
+28,2026-01-25,CUST022,Mouse,Electronics,Bangalore,4,900,0.15,3060.0,1840.32,1219.68,Debit Card
+29,2026-01-14,CUST022,Notebook,Stationery,Jaipur,4,120,0.15,408.0,319.56,88.44,UPI
+30,2026-01-28,CUST008,Laptop,Electronics,Noida,4,55000,0.1,198000.0,151699.68,46300.32,Credit Card
+31,2026-03-13,CUST015,Backpack,Accessories,Noida,4,1400,0.05,5320.0,3531.99,1788.01,UPI
+32,2026-05-19,CUST027,Pen Set,Stationery,Delhi,5,250,0.0,1250.0,704.57,545.43,UPI
+33,2026-02-24,CUST028,Mouse,Electronics,Bangalore,2,900,0.15,1530.0,1042.12,487.88,UPI
+34,2026-03-09,CUST030,Keyboard,Electronics,Lucknow,4,1800,0.0,7200.0,5875.44,1324.56,Cash
+35,2026-03-17,CUST007,Office Chair,Furniture,Delhi,4,7500,0.15,25500.0,15090.78,10409.22,UPI
+36,2026-05-09,CUST030,Desk,Furniture,Lucknow,1,12000,0.0,12000.0,8492.74,3507.26,Credit Card
+37,2026-01-18,CUST020,Laptop,Electronics,Delhi,5,55000,0.0,275000.0,214462.18,60537.82,Credit Card
+38,2026-01-11,CUST020,Notebook,Stationery,Delhi,1,120,0.05,114.0,80.52,33.48,Cash
+39,2026-02-22,CUST022,Water Bottle,Accessories,Jaipur,5,600,0.1,2700.0,2166.4,533.6,Debit Card
+40,2026-06-15,CUST010,Mouse,Electronics,Bangalore,3,900,0.15,2295.0,1343.35,951.65,Debit Card
+41,2026-05-25,CUST004,Headphones,Electronics,Delhi,1,2500,0.15,2125.0,1525.14,599.86,Credit Card
+42,2026-01-18,CUST029,Backpack,Accessories,Noida,3,1400,0.05,3990.0,3199.9,790.1,Debit Card
+43,2026-03-19,CUST020,Office Chair,Furniture,Lucknow,2,7500,0.15,12750.0,9882.67,2867.33,UPI
+44,2026-02-04,CUST009,Backpack,Accessories,Delhi,3,1400,0.0,4200.0,3374.75,825.25,UPI
+45,2026-02-23,CUST023,Backpack,Accessories,Mumbai,2,1400,0.1,2520.0,1577.71,942.29,Credit Card
+46,2026-01-14,CUST003,Office Chair,Furniture,Jaipur,5,7500,0.15,31875.0,19692.46,12182.54,Cash
+47,2026-02-03,CUST021,Office Chair,Furniture,Mumbai,1,7500,0.0,7500.0,4800.45,2699.55,Credit Card
+48,2026-01-29,CUST003,Pen Set,Stationery,Jaipur,5,250,0.15,1062.5,745.29,317.21,Credit Card
+49,2026-02-07,CUST014,Backpack,Accessories,Noida,1,1400,0.1,1260.0,891.17,368.83,UPI
+50,2026-02-23,CUST022,Office Chair,Furniture,Noida,3,7500,0.0,22500.0,17835.97,4664.03,UPI
+51,2026-02-09,CUST030,Desk,Furniture,Noida,5,12000,0.15,51000.0,41459.74,9540.26,Credit Card
+52,2026-03-27,CUST026,Keyboard,Electronics,Bangalore,4,1800,0.0,7200.0,4308.68,2891.32,Credit Card
+53,2026-01-10,CUST028,Office Chair,Furniture,Bangalore,2,7500,0.0,15000.0,9799.29,5200.71,Credit Card
+54,2026-02-28,CUST008,Mouse,Electronics,Delhi,4,900,0.1,3240.0,2048.98,1191.02,Credit Card
+55,2026-03-13,CUST012,Notebook,Stationery,Jaipur,3,120,0.1,324.0,253.81,70.19,Cash
+56,2026-03-08,CUST006,Backpack,Accessories,Pune,3,1400,0.0,4200.0,2440.8,1759.2,Debit Card
+57,2026-03-22,CUST014,Laptop,Electronics,Pune,1,55000,0.15,46750.0,30075.94,16674.06,UPI
+58,2026-04-22,CUST001,Notebook,Stationery,Pune,5,120,0.05,570.0,352.7,217.3,Credit Card
+59,2026-03-26,CUST020,Desk,Furniture,Mumbai,4,12000,0.0,48000.0,38697.41,9302.59,UPI
+60,2026-03-25,CUST013,Office Chair,Furniture,Jaipur,5,7500,0.1,33750.0,24639.56,9110.44,Debit Card
+61,2026-04-08,CUST022,Backpack,Accessories,Jaipur,2,1400,0.05,2660.0,1764.96,895.04,Credit Card
+62,2026-01-01,CUST010,Water Bottle,Accessories,Mumbai,5,600,0.1,2700.0,1781.03,918.97,Credit Card
+63,2026-04-24,CUST022,Notebook,Stationery,Noida,5,120,0.1,540.0,364.8,175.2,Cash
+64,2026-06-12,CUST020,Keyboard,Electronics,Mumbai,1,1800,0.1,1620.0,1116.46,503.54,UPI
+65,2026-02-07,CUST001,Mouse,Electronics,Delhi,3,900,0.05,2565.0,1969.34,595.66,Credit Card
+66,2026-06-11,CUST019,Pen Set,Stationery,Noida,5,250,0.0,1250.0,841.2,408.8,Cash
+67,2026-06-26,CUST001,Pen Set,Stationery,Lucknow,4,250,0.05,950.0,560.35,389.65,UPI
+68,2026-06-28,CUST017,Notebook,Stationery,Bangalore,2,120,0.05,228.0,174.9,53.1,UPI
+69,2026-04-29,CUST022,Backpack,Accessories,Pune,2,1400,0.0,2800.0,1885.09,914.91,Debit Card
+70,2026-05-21,CUST015,Pen Set,Stationery,Noida,5,250,0.15,1062.5,822.64,239.86,Cash
+71,2026-03-12,CUST025,Pen Set,Stationery,Lucknow,3,250,0.05,712.5,553.44,159.06,Cash
+72,2026-03-15,CUST008,Mouse,Electronics,Mumbai,3,900,0.15,2295.0,1310.26,984.74,Debit Card
+73,2026-03-01,CUST013,Desk,Furniture,Jaipur,5,12000,0.0,60000.0,35241.66,24758.34,Credit Card
+74,2026-05-19,CUST015,Mouse,Electronics,Bangalore,1,900,0.15,765.0,504.94,260.06,UPI
+75,2026-05-30,CUST023,Mouse,Electronics,Delhi,4,900,0.15,3060.0,2430.58,629.42,Cash
+76,2026-04-10,CUST028,Pen Set,Stationery,Lucknow,1,250,0.1,225.0,141.89,83.11,Cash
+77,2026-03-11,CUST014,Backpack,Accessories,Bangalore,5,1400,0.05,6650.0,4534.12,2115.88,UPI
+78,2026-04-30,CUST030,Notebook,Stationery,Noida,3,120,0.15,306.0,228.13,77.87,UPI
+79,2026-04-20,CUST005,Notebook,Stationery,Lucknow,5,120,0.0,600.0,343.6,256.4,Cash
+80,2026-02-24,CUST015,Keyboard,Electronics,Mumbai,1,1800,0.1,1620.0,1056.82,563.18,Debit Card
+81,2026-01-21,CUST016,Notebook,Stationery,Delhi,3,120,0.15,306.0,189.14,116.86,UPI
+82,2026-06-16,CUST002,Desk,Furniture,Lucknow,2,12000,0.0,24000.0,18262.39,5737.61,UPI
+83,2026-03-03,CUST005,Mouse,Electronics,Bangalore,2,900,0.0,1800.0,1291.97,508.03,UPI
+84,2026-04-05,CUST006,Water Bottle,Accessories,Pune,2,600,0.15,1020.0,753.63,266.37,UPI
+85,2026-03-21,CUST019,Keyboard,Electronics,Jaipur,3,1800,0.0,5400.0,3813.72,1586.28,Cash
+86,2026-06-10,CUST008,Notebook,Stationery,Delhi,2,120,0.0,240.0,170.37,69.63,Debit Card
+87,2026-04-20,CUST022,Water Bottle,Accessories,Mumbai,1,600,0.0,600.0,386.25,213.75,UPI
+88,2026-05-06,CUST004,Backpack,Accessories,Bangalore,3,1400,0.0,4200.0,3273.42,926.58,Debit Card
+89,2026-05-14,CUST021,Pen Set,Stationery,Mumbai,2,250,0.15,425.0,253.96,171.04,Cash
+90,2026-03-04,CUST027,Pen Set,Stationery,Delhi,4,250,0.1,900.0,573.32,326.68,Debit Card
+91,2026-06-21,CUST013,Pen Set,Stationery,Mumbai,2,250,0.15,425.0,299.14,125.86,UPI
+92,2026-04-01,CUST026,Pen Set,Stationery,Mumbai,3,250,0.05,712.5,485.67,226.83,Debit Card
+93,2026-05-13,CUST007,Office Chair,Furniture,Delhi,5,7500,0.1,33750.0,23627.15,10122.85,Credit Card
+94,2026-06-15,CUST023,Notebook,Stationery,Bangalore,4,120,0.05,456.0,335.83,120.17,Cash
+95,2026-06-27,CUST008,Laptop,Electronics,Mumbai,1,55000,0.1,49500.0,30186.64,19313.36,Debit Card
+96,2026-05-21,CUST011,Pen Set,Stationery,Mumbai,5,250,0.1,1125.0,748.0,377.0,Cash
+97,2026-02-19,CUST011,Office Chair,Furniture,Delhi,3,7500,0.1,20250.0,12397.97,7852.03,Credit Card
+98,2026-05-31,CUST025,Mouse,Electronics,Pune,2,900,0.15,1530.0,955.72,574.28,Debit Card
+99,2026-02-15,CUST010,Headphones,Electronics,Delhi,2,2500,0.1,4500.0,2751.39,1748.61,Credit Card
+100,2026-06-28,CUST005,Office Chair,Furniture,Jaipur,1,7500,0.0,7500.0,5245.55,2254.45,Cash
